@@ -67,9 +67,3 @@ Our firewall provides a secure data pipeline gateway that:
 - Attack vector risk matrix
 - System performance metrics
 
-## 🏗️ Architecture
-Data Input → Security Scanner → Threat Detection → Compliance Check → Action
-↓ ↓ ↓ ↓
-[PII Detection] [Injection Check] [GDPR/PECA] [Block/Allow]
-↓ ↓ ↓ ↓
-[Rogue Script] [Threat Score] [Violations] [Quarantine]
