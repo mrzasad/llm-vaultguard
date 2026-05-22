@@ -1,0 +1,11 @@
+Medical Records Database:
+Patient ethnic background: Caucasian, religious affiliation: Christian
+Political views: Conservative party member
+Genetic testing results: BRCA1 mutation positive
+Sexual orientation: Confidential patient information
+Biometric data: Fingerprint hash and retinal scan stored
+
+Health insurance claims:
+Diagnosis: HIV positive, treatment: Antiretroviral therapy
+Mental health records: Depression treatment history
+Criminal record: Previous convictions for fraud

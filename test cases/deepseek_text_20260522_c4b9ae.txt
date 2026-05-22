@@ -1,0 +1,5 @@
+Database backup contains:
+Users: admin:password123, john:qwerty456
+CC: 4532-1234-5678-9012, CVV: 123
+SSN: 123-45-6789, DOB: 01/15/1985
+Medical: HIV+, Cancer treatment, Mental health records

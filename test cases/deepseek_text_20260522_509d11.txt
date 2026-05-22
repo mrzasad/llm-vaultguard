@@ -1,0 +1,10 @@
+Legitimate code: print("Hello World") - This should be safe.
+Math formula: E = mc² - Einstein's theory - This should be safe.
+
+Is this safe? rm -rf is a dangerous Linux command but mentioning it isn't executing it.
+
+Email validation regex: \b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b
+
+Security discussion: To prevent SQL injection, always use parameterized queries instead of "SELECT * FROM users WHERE id=" + userId
+
+GDPR compliance requires encrypting PII data like john.doe@company.com before storage.

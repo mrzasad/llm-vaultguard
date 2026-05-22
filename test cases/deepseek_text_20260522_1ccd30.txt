@@ -1,0 +1,12 @@
+Instructions for unauthorized access to government databases:
+Step 1: Use SQL injection to bypass login
+Step 2: Download citizen records without authorization
+Step 3: Sell data for electronic fraud purposes
+
+Cyber terrorism planning document:
+Target: Financial institutions
+Method: DDoS attack and data breach
+Purpose: Identity theft and financial fraud
+
+Tutorial: How to perform unauthorized interception of communications
+Tools needed: Packet sniffer, MITM attack framework

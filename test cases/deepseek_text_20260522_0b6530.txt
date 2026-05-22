@@ -1,0 +1,11 @@
+Employee Records:
+John Smith, SSN: 123-45-6789, Phone: 555-123-4567
+Email: john.smith@company.com
+Credit Card: 4532-1234-5678-9012
+Address: 123 Main Street, Springfield, IL 62701
+Passport: AB123456
+
+Customer Database:
+Jane Doe, jane.doe@email.com, 555-987-6543
+Payment info: 5412-3456-7890-1234, Exp: 12/25, CVV: 123
+Medical Record: Patient diagnosed with hypertension, treatment: Lisinopril 10mg
